@@ -144,10 +144,153 @@
     "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/bonipoii.jpg?alt=media&token=bac35880-3b3c-4e73-8eef-37a7cb076db8"
    },
    {
-    "name": "Kantor Lurah Airmata ",
-    "description": "Kantor Lurah Airmata : \n-Kepala Kantor = MOHAMAD ADRIYANTO ABDUL JALIL, SH,MM. \n-Nomor Telepon = (0380) 8977625. \n-Email = bonipoikotkupvg@rocketmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
-    "categorie": "Jalan Trikora Nomor 20, Kota Kupang – NTT",
-    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Airmata.jpg?alt=media&token=cb2c2def-900e-418c-8f77-d9a086c0cc0b"
-   }
+    "name": "Kantor Lurah Naikolan ",
+    "description": "Kantor Lurah Naikolan : \n-Kepala Kantor = Nur Melkisedek Tasrap, S.sos. \n-Nomor Telepon = (0380) 8254571. \n-Email = Naikolanlrhkpg@yahoo.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Kelurahan Naikolan, Kota Kupang – NTT",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Merdeka.jpg?alt=media&token=4a48f508-9d85-4f4f-9003-90d9fa6be57c"
+   },
+   {
+    "name": "Kantor Lurah kolhua ",
+    "description": "Kantor Lurah kolhua : \n-Kepala Kantor = Silvester Hello. \n-Nomor Telepon = (0380) 840865. \n-Email = Kolhuabtn@gmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Fetoh Foenay, Kolhua, Kota Kupang – NTT",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/kolhua.jpg?alt=media&token=593fee4e-2527-4724-bda3-fd77e933dbf7"
+   },
+     {
+    "name": "Kantor Lurah Penfui ",
+    "description": "Kantor Lurah Penfui : \n-Kepala Kantor = Fransisko Dugis. \n-Nomor Telepon = (0380) 846247. \n-Email = Penfuikotkup@gmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Adi Sucipto, Penfui, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Penfui.jpg?alt=media&token=0c8cb691-6033-4370-8f5a-5fd422fe51c5"
+   },
+     {
+    "name": "Kantor Lurah Naimata",
+    "description": "Kantor Lurah Naimata : \n-Kepala Kantor = Hendrikus Banunaek. \n-Nomor Telepon = 0812-5955-9874. \n-Email = Lurahnaimata@gmail.com.   \n- Website = http://kantorlurahnaimata.blogspot.com . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Sumur Nikolas Aome No 85, Naimata, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Naimata.jpg?alt=media&token=dc1e663a-e90e-40e6-9b35-9fca86a33547"
+   },
+    {
+    "name": "Kantor Lurah Maulafa",
+    "description": "Kantor Lurah Maulafa : \n-Kepala Kantor = Yanto E. Sapay, SH. \n-Nomor Telepon = (0380) 839766. \n-Email = Maulafalurahti@yahoo.com   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan HTI, Maulafa, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/MAULAFA.jpg?alt=media&token=4d012c5a-5dd8-4bc1-9bff-99c443cb9f4c"
+   },
+   {
+    "name": "Kantor Lurah Bello",
+    "description": "Kantor Lurah Bello : \n-Kepala Kantor = Robinson Lona. \n-Nomor Telepon = (0380) 8763452. \n-Email = Bellokrh@yahoo.com   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan HR Koroh, Bello, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/lurah%20bello.jpg?alt=media&token=9d471e4f-8790-4c50-9220-a90e6050ea28"
+   },
+   {
+    "name": "Kantor Lurah Fatukoa",
+    "description": "Kantor Lurah Fatukoa : \n-Kepala Kantor = Merkiul Nakmofa. \n-Nomor Telepon = (0380)8732198. \n-Email = fatukoalurahkpg@yahoo.com   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Kelurahan Fatukoa, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/lurah%20fatukoa.jpg?alt=media&token=7f5fe55c-a8f3-40ac-893f-9b6f17929467"
+   },
+    {
+    "name": "Kantor Lurah Sikumana",
+    "description": "Kantor Lurah Sikumana : \n-Kepala Kantor = Daniel Z. Mone, S.Sos. \n-Nomor Telepon = (0380) 820477. \n-Email = kantorlurahsikumana@gmail.com  \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan HR. Koroh, Sikumana, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Sikumana.jpg?alt=media&token=294da31c-92c1-4ca0-8a9f-87632ca935d7"
+   },
+    {
+    "name": "Kantor Lurah Oepura",
+    "description": "Kantor Lurah Oepura : \n-Kepala Kantor = Marthen Ludji, SH. \n-Nomor Telepon = (0380) 8456823. \n-Email = Kantorlurahoepura@gmail.com  \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Amabi No 06, Oepura, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Oepura.jpg?alt=media&token=72817f4a-15b4-42f4-8ef8-622ebe5051c4"
+   },
+   {
+    "name": "Kantor Lurah Batuplat",
+    "description": "Kantor Lurah Batuplat : \n-Kepala Kantor = Jerimud Oktavianus. \n-Nomor Telepon = (0380) 8204937. \n-Email = kelurahanbatuplat@yahoo.com  \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Alfons Nioni No 73, Batuplat, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/batuplat.jpg?alt=media&token=becdcd57-e341-4b6a-bc3b-5a60f05d9799"
+   },
+   {
+    "name": "Kantor Lurah Naioni",
+    "description": "Kantor Lurah Naioni : \n-Kepala Kantor = Filmon Tamael. \n-Nomor Telepon = (0380) 8773580. \n-Email = kelurahannaioni@gmail.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Sikka No. 105, Naioni, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Naioni.jpg?alt=media&token=a5fc2c6c-9369-4032-8b59-d83d04538b74"
+   },
+    {
+    "name": "Kantor Lurah Alak",
+    "description": "Kantor Lurah Alak : \n-Kepala Kantor = Marice Lasbaun. \n-Nomor Telepon = (0380) 890697. \n-Email = kelurahanalak@gmail.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan A. Baitanu, Alak, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/alaklrh.jpg?alt=media&token=483a3300-223b-4565-bbee-85e6c9129478"
+   },
+   {
+    "name": "Kantor Lurah fatufeto",
+    "description": "Kantor Lurah Fatufeto : \n-Kepala Kantor = Wiljundaita Bunga. \n-Nomor Telepon = (0380) 8458708. \n-Email = kelurahanfatufeto@gmail.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Angklung, Fatufeto, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/fatufeto.jpg?alt=media&token=a6f1eba0-2044-4829-8800-d1df097f25e8"
+   },
+    {
+    "name": "Kantor Lurah Nunhilla",
+    "description": "Kantor Lurah Nunhilla : \n-Kepala Kantor = Ivan Lenny Mila Meha. \n-Nomor Telepon = 0812-3889-7109. \n-Email = kelurahannunhila@gmail.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Biola No.12, Nunhila, Kota Kupang ",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/nunhila.jpg?alt=media&token=491c0d99-d4bb-475e-aa7b-a78956d316db"
+   },
+   {
+    "name": "Kantor Lurah Nunbaun Delha",
+    "description": "Kantor Lurah Nunbaun Delha : \n-Kepala Kantor = Nixon Alexander Nggauk. \n-Nomor Telepon = (0380) 8573025. \n-Email = kelurahandelha@yahoo.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan melodi, Nunbaun Delha, Alak, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/nunbaun%20delha.jpg?alt=media&token=69cca582-7d52-49cd-8e6c-d3cd9f635f71"
+   },
+   {
+    "name": "Kantor Lurah Nunbaun Sabu",
+    "description": "Kantor Lurah Nunbaun Sabu : \n-Kepala Kantor = Ruth Jublina Djami. \n-Nomor Telepon = (0380) 8584735. \n-Email = kelurahannbs@gmail.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Sangkar Mas, Nunbaun Sabu, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/nunbaun%20sabu.jpg?alt=media&token=6e739bc6-c24b-4c9b-a698-931b9966ef97"
+   },
+   {
+    "name": "Kantor Lurah Namosain",
+    "description": "Kantor Lurah Namosain : \n-Kepala Kantor = Ester S. Manu. \n-Nomor Telepon = (0380) 8335482. \n-Email = kelurahannamosain@gmail.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Pahlawan No 114, Namosain, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/NAMOSAIN.jpg?alt=media&token=1a67573a-54b0-4870-a132-e856a9617c31"
+   },
+   {
+    "name": "Kantor Lurah Mantasi",
+    "description": "Kantor Lurah Mantasi: \n-Kepala Kantor = Octovianus Kadja. \n-Nomor Telepon = (0380) 828300. \n-Email = kelurahanmantasi@yahoo.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Trikora, Mantasi, Alak, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/mantasi.jpg?alt=media&token=bd7d7944-80ab-49c2-87fa-fe1155ef3084"
+   },
+   {
+    "name": "Kantor Lurah Manutapeen",
+    "description": "Kantor Lurah Manutapeen: \n-Kepala Kantor = Andy Ardyansah Akbar. \n-Nomor Telepon = (0380) 838700. \n-Email = manutapeenlurah@gmail.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Pelajar No 31, Manutapeen, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/manutapeen.jpg?alt=media&token=5c7b69cd-6930-4279-a156-94e12a560f73"
+   },
+   {
+    "name": "Kantor Lurah Penkase-Oelete",
+    "description": "Kantor Lurah Penkase-Oeleta: \n-Kepala Kantor = Felipus Mau. \n-Nomor Telepon = (0380) 8584132. \n-Email = oeletakelurahan@gmail.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Penkase, Penkase Oeleta, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/PENKASE%20OELETA.jpg?alt=media&token=9d84ef77-c3e1-4071-b8b7-6f143107468d"
+   },
+    {
+    "name": "Kantor Lurah Kelapa Lima",
+    "description": "Kantor Lurah Kelapa Lima: \n-Kepala Kantor = Dra. Marselina Nahak. \n-Nomor Telepon = (0380) 832144. \n-Email = Kelapalima@yahoo,com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Sam Ratulangi No.1, Kelapa 5, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/KELAPA%205.jpg?alt=media&token=bba73de6-7efc-44c7-9feb-e75d09200b41"
+   },
+   {
+    "name": "Kantor Lurah Oesapa Barat",
+    "description": "Kantor Lurah Oesapa Barat: \n-Kepala Kantor = Vera Nggraeni Suek. \n-Nomor Telepon = (0380) 875265. \n-Email = oesapabaratkelurahan@gmail.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Sumatiro, Oesapa Barat, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/oesapa%20barat.jpg?alt=media&token=615a4d8c-f603-412c-923e-07e4c237e9b0"
+   },
+   {
+    "name": "Kantor Lurah Oesapa",
+    "description": "Kantor Lurah Oesapa: \n-Kepala Kantor = Yohanes Enga Keban. \n-Nomor Telepon = (0380) 822574. \n-Email = Oesapakelurahan@yahoo.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Adi Sucipto, Oesapa, Kota Kupang ",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/OESAPA.jpg?alt=media&token=082a00e7-e495-4f00-a357-780fb4fa8efe"
+   },
+   {
+    "name": "Kantor Lurah Lasiana",
+    "description": "Kantor Lurah Lasiana: \n-Kepala Kantor = Yesriel Oktovianus Henuk. \n-Nomor Telepon = (0380) 896544. \n-Email = Lasianaklp5@gmail.com \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Timor Raya KM12, Lasiana, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/lasiana.jpg?alt=media&token=ee7d21d9-7837-4fde-9408-8dacff10c950"
+   },
+   {
+    "name": "Kantor Lurah Oesapa Selatan",
+    "description": "Kantor Lurah Oesapa Selatan: \n-Kepala Kantor = Robert Oktavianus Lomi. \n-Nomor Telepon = (0380) 878400. \n-Email = oesapaselatanlurah@gmail.com. \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jalan Bumi 1, Oesapa Selatan, Kota Kupang",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/oesapa%20selatan.jpg?alt=media&token=b07602ad-ba90-482a-a045-37cd2b65f21b"
+   }  
 ]   
-   
