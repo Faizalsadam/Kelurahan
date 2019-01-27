@@ -11,11 +11,12 @@
     "categorie": "Jl Timor Raya, Pasir Panjang, Kota Kupang – NTT",
     "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Pasirpanjang.jpg?alt=media&token=7aa93f50-81d7-45de-bba0-59b3ea028328"
    },
-	{
-    "name": "Kantor Lurah Pasir Merdeka",
+   {
+    "name": "Kantor Lurah Merdeka",
     "description": "Kantor Lurah Merdeka : \n-Kepala Kantor = Daud Noftianus Nafi. \n-Nomor Telepon = (0380) 8678930 . \n-Email = Merdekavg22@gmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
     "categorie": "Jl Gunung Fatuleu no3, Merdeka, Kota Kupang – NTT",
     "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Merdeka.jpg?alt=media&token=4a48f508-9d85-4f4f-9003-90d9fa6be57c"
+  },
   {
     "name": "Kantor Lurah Liliba ",
     "description": "Kantor Lurah Liliba : \n-Kepala Kantor = Drs. Abraham Klau. \n-Nomor Telepon = (0380) 8552682. \n-Email = Lilibataebenu@gmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
