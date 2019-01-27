@@ -1,5 +1,5 @@
 [
-	{
+   {
     "name": "Kantor Lurah Oeba",
     "description": "Kantor Lurah Oeba : \n-Kepala Kantor = Maria Evalina Salensi. \n-Nomor Telepon = (0380) 883782. \n-Email = Oebavgkotkup@gmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
     "categorie": "Jl Beringin No 6, Oeba, Kota Kupang – NTT",
@@ -172,13 +172,13 @@
     "categorie": "Jalan Fetoh Foenay, Kolhua, Kota Kupang – NTT",
     "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/kolhua.jpg?alt=media&token=593fee4e-2527-4724-bda3-fd77e933dbf7"
    },
-     {
+    {
     "name": "Kantor Lurah Penfui ",
     "description": "Kantor Lurah Penfui : \n-Kepala Kantor = Fransisko Dugis. \n-Nomor Telepon = (0380) 846247. \n-Email = Penfuikotkup@gmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
     "categorie": "Jalan Adi Sucipto, Penfui, Kota Kupang",
     "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Penfui.jpg?alt=media&token=0c8cb691-6033-4370-8f5a-5fd422fe51c5"
    },
-     {
+   {
     "name": "Kantor Lurah Naimata",
     "description": "Kantor Lurah Naimata : \n-Kepala Kantor = Hendrikus Banunaek. \n-Nomor Telepon = 0812-5955-9874. \n-Email = Lurahnaimata@gmail.com.   \n- Website = http://kantorlurahnaimata.blogspot.com . \n-Jam Operasional = 08.00-16.00.",
     "categorie": "Jalan Sumur Nikolas Aome No 85, Naimata, Kota Kupang",
@@ -309,6 +309,5 @@
     "description": "Kantor Lurah Oesapa Selatan: \n-Kepala Kantor = Robert Oktavianus Lomi. \n-Nomor Telepon = (0380) 878400. \n-Email = oesapaselatanlurah@gmail.com. \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
     "categorie": "Jalan Bumi 1, Oesapa Selatan, Kota Kupang",
     "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/oesapa%20selatan.jpg?alt=media&token=b07602ad-ba90-482a-a045-37cd2b65f21b"
-   }  
-   
+   }
 ]   
