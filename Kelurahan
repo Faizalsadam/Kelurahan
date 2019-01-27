@@ -1,4 +1,21 @@
 [
+	{
+    "name": "Kantor Lurah Oeba",
+    "description": "Kantor Lurah Oeba : \n-Kepala Kantor = Maria Evalina Salensi. \n-Nomor Telepon = (0380) 883782. \n-Email = Oebavgkotkup@gmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jl Beringin No 6, Oeba, Kota Kupang – NTT",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/oeba.jpg?alt=media&token=cbfe20cb-007a-4a7d-b3cf-524ed19d26bb"
+   },
+   {
+    "name": "Kantor Lurah Pasir Panjang",
+    "description": "Kantor Lurah Pasir Panjang : \n-Kepala Kantor = Ferdinand Masae S.pt. \n-Nomor Telepon = (0380) 8656657. \n-Email = pasirpanjangvg@gmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jl Timor Raya, Pasir Panjang, Kota Kupang – NTT",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Pasirpanjang.jpg?alt=media&token=7aa93f50-81d7-45de-bba0-59b3ea028328"
+   },
+	{
+    "name": "Kantor Lurah Pasir Merdeka",
+    "description": "Kantor Lurah Merdeka : \n-Kepala Kantor = Daud Noftianus Nafi. \n-Nomor Telepon = (0380) 8678930 . \n-Email = Merdekavg22@gmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
+    "categorie": "Jl Gunung Fatuleu no3, Merdeka, Kota Kupang – NTT",
+    "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/Merdeka.jpg?alt=media&token=4a48f508-9d85-4f4f-9003-90d9fa6be57c"
   {
     "name": "Kantor Lurah Liliba ",
     "description": "Kantor Lurah Liliba : \n-Kepala Kantor = Drs. Abraham Klau. \n-Nomor Telepon = (0380) 8552682. \n-Email = Lilibataebenu@gmail.com.   \n- Website = - . \n-Jam Operasional = 08.00-16.00.",
@@ -293,4 +310,5 @@
     "categorie": "Jalan Bumi 1, Oesapa Selatan, Kota Kupang",
     "img": "https://firebasestorage.googleapis.com/v0/b/gis-perkantoran.appspot.com/o/oesapa%20selatan.jpg?alt=media&token=b07602ad-ba90-482a-a045-37cd2b65f21b"
    }  
+   
 ]   
